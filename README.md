@@ -1,2 +1,0 @@
-# bsk
-nada
